@@ -3,6 +3,9 @@
     "airbnb",
     "plugin:flowtype/recommended"
   ],
+  "env": {
+    "jest": true
+  },
   "paerser": "babel-eslint",
   "plugins": [
     "flowtype",
